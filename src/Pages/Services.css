@@ -1,0 +1,26 @@
+.services {
+    text-align: center;
+    color: #005967;
+    font-weight: bolder;
+}
+.popular1 img {
+    position: relative;
+    width: 100%;
+    border-radius: 50px;
+}
+.destination .popular1 {
+    display: flex;
+    align-items: center;
+}
+.destination .desc-text {
+    padding: 20px;
+}
+.destination .desc-img {
+    padding: 20px;
+}
+.recent {
+    padding: 0 20px;
+}
+.recent img{
+    height: 400px;
+}

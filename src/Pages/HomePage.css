@@ -1,0 +1,25 @@
+.destination {
+    text-align: center;
+    padding: 20px 40px;
+    margin: 50px 0;
+    color: #005967;
+    font-weight: bolder;
+}
+.popular1 img {
+    position: relative;
+    width: 100%;
+    border-radius: 50px;
+}
+.destination .popular1 {
+    display: flex;
+    align-items: center;
+}
+.destination .desc-text {
+    padding: 20px;
+}
+.destination .desc-img {
+    padding: 20px;
+}
+.recent img{
+    height: 400px;
+}
